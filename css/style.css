@@ -12,6 +12,7 @@
     background: #395b64;
     box-shadow: 0 2px 4px;
     flex-wrap: wrap;
+    
 }
 
 .nav-bar-principal .logo-principal{
@@ -127,7 +128,7 @@ section:nth-child(2){
 }
 
 .paramt-two {
-    margin-top: 3%;
+    margin-top: 10%;
     text-align: center;
 }
 
@@ -150,8 +151,6 @@ section:nth-child(2){
     height: 180px;
     padding: 30px;
     border-radius: 10px;
-    margin-top: 8%;
-    margin-bottom: 5%;
 }
 
 .column-card-mirantec img{
@@ -390,7 +389,7 @@ section:nth-child(3){
 
 .footer-primary .logo-rede-sociais{
     text-align: center;
-    margin-top: 6%;
+    margin-top: 3%;
 }
 
 .footer-primary .logo-rede-sociais i{
