@@ -12,7 +12,6 @@
     background: #395b64;
     box-shadow: 0 2px 4px;
     flex-wrap: wrap;
-    
 }
 
 .nav-bar-principal .logo-principal{
@@ -65,7 +64,7 @@
 section:nth-child(1){
     display: flex;
     height: 90vh;
-    background: rgba(0, 0, 12, 0.7) url(img/rear-view-businessman-talking-phone-city.jpg);
+    background: rgba(0, 0, 12, 0.7) url(rear-view-businessman-talking-phone-city.jpg);
     background-size: cover;
     background-position: center;
     background-blend-mode: darken;
@@ -128,7 +127,7 @@ section:nth-child(2){
 }
 
 .paramt-two {
-    margin-top: 10%;
+    margin-top: 3%;
     text-align: center;
 }
 
@@ -151,6 +150,8 @@ section:nth-child(2){
     height: 180px;
     padding: 30px;
     border-radius: 10px;
+    margin-top: 8%;
+    margin-bottom: 5%;
 }
 
 .column-card-mirantec img{
@@ -181,7 +182,7 @@ section:nth-child(3){
     display: flex;
     width: 100%;
     height: 80vh;
-    background: rgba(0, 0, 12, 0.7) url(img/young-adult-standing-watching-city-life-adventure-generative-ai.jpg);
+    background: rgba(0, 0, 12, 0.7) url(young-adult-standing-watching-city-life-adventure-generative-ai.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-blend-mode: darken;
@@ -389,7 +390,7 @@ section:nth-child(3){
 
 .footer-primary .logo-rede-sociais{
     text-align: center;
-    margin-top: 3%;
+    margin-top: 6%;
 }
 
 .footer-primary .logo-rede-sociais i{
